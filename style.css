@@ -1,0 +1,32 @@
+.x{
+    display: block;
+    padding-top: 377px;
+    padding-bottom: 377px;
+    background-color:rgba(38, 37, 37, 0.8);
+}
+body{
+    background-image:url("img/background.jpeg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.div2{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    text-align:center;
+    margin:auto;
+}
+.div3 {
+    color: white;
+}
+button{
+    color:blue;
+    background-color:white;
+    border-radius:30px;
+    padding:10px;
+    border: none;
+}
+*{
+    padding:0;
+    margin:0;
+}
